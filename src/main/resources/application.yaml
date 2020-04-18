@@ -1,0 +1,8 @@
+
+jasypt:
+  encyptor:
+    password: mysecret
+
+  my:
+    encrypted:
+      property: ENC(somerandomtext)
